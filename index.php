@@ -9,6 +9,11 @@
 <body>
     <h1>Group Git Testing</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptatum blanditiis neque temporibus maiores nesciunt doloribus harum quis voluptas cumque dolores laboriosam, sit aliquid ea officiis deleniti accusantium qui amet?</p>
+    <ul>
+        <li>Apple</li>
+        <li>Orange</li>
+        <li>Mango</li>
+    </ul>
 </body>
 </html>
 
